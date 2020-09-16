@@ -9,7 +9,7 @@
 <body>
 <%
 	//스크립트릿(scriptlet) > 자바코딩(변수, 제어문)
-	String str="테스트";
+	String str="박우연";
 	System.out.println("str= "+str);
 	out.println("<h1>"+"str="+str+"</h1>"); //웹에 출력 > js=document.write("str= "+str)
 %>
